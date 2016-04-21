@@ -11,7 +11,7 @@ The tagging program will be invoked in the following way:
 
 The argument is a single file containing the test data; the program will read the parameters of a hidden Markov model from the file hmmmodel.txt, tag each word in the test data, and write the results to a text file called hmmoutput.txt in the same format as the training data.
 
-Trainig data contains - 
+Training data contains - 
 
 A file with tagged training data in the word/TAG format, with words separated by spaces and each sentence on a new line.
 A file with untagged development data, with words separated by spaces and each sentence on a new line.
