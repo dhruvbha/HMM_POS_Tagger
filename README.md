@@ -1,5 +1,5 @@
 # HMM_POS_Tagger
-Hidden Markov Model part-of-speech tagger for Catalan
+Hidden Markov Model part-of-speech tagger for Catalan.
 hmmlearn.py will learn a hidden Markov model from the training data, and hmmdecode.py will use the model to tag new data.
 > python hmmlearn.py /path/to/input
 
